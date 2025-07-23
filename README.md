@@ -30,9 +30,6 @@ My goal is to build useful, responsive and modern websites — and to one day co
   <a href="https://www.linkedin.com/in/afonso-fernando-b72847339?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1LKBgFSgQYuiOaWvEizVcg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="https://github.com/afonso1724" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>&nbsp;
   <a href="mailto:afonsofernando2356@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;
