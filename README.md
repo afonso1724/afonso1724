@@ -1,46 +1,28 @@
-<h1 align="center">
-  Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm AFDev<>
-</h1>
-<p align="center">Web Developer in progress • Learning, building and sharing</p>
+# Olá, eu sou o Afonso Fernando 👋
 
-## About Me
+### 🚀 Web Developer em Transição para Full-Stack
+Sou um desenvolvedor focado em criar soluções eficientes e modernas. Atualmente, estou mergulhando de cabeça no ecossistema **React** e aprimorando sistemas de gestão com **PHP/MySQL**.
 
-I'm an aspiring web developer passionate about technology and problem-solving. I’m currently learning and building projects using:
+---
 
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Bootstrap
+### 🛠️ No que estou trabalhando:
+* 💻 Desenvolvendo um **Sistema de Gestão Salarial (Payroll)** automatizado.
+* 🛰️ Explorando logística e tech com o projeto **AgroConecta**.
+* 📚 Estudando **Next.js** e **Tailwind CSS** para interfaces de alto desempenho.
 
-I believe in learning by doing, and I'm always looking for new ways to improve my skills. While I’m still at the beginning of my journey, I’m committed to growing every day as a developer.
+---
 
-My goal is to build useful, responsive and modern websites — and to one day contribute to real-world projects that make a difference.
-##
+### 🧰 Minhas Tecnologias:
 
-## My skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-##
-### 📫 Get in touch 🤝
+| Front-end | Back-end | Ferramentas |
+| :--- | :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white) | ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | | |
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/afonso-fernando-b72847339?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1LKBgFSgQYuiOaWvEizVcg%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:afonsofernando2356@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>&nbsp;
-  <a href="https://wa.me/244934404715" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" />
-</a>&nbsp;
-</p>
+---
 
-
-
-
-
-
-
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afonso-fernando)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afonsofernando2356@gmail.com)
