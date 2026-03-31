@@ -1,4 +1,4 @@
-# Olá! Eu sou o Afonso Fernando 👋 
+# Olá! Eu sou o Afonso Fernando <img src="https://raw.githubusercontent.com/Martin005/Martin005/master/hand.gif" width="30px">
 
 ### 💻 Desenvolvedor Web | Freelancer | Entusiasta de Tech
 
@@ -26,7 +26,7 @@ Sou apaixonado por transformar ideias em soluções reais através do código. A
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=afonso1724&theme=dark&hide_border=true" />
 <img height="165" src="https://github-vibe.vercel.app/api?username=afonso1724&theme=dark" />
 </p>
----
+
 
 #### 📫 Vamos nos conectar?
 <p align="left">
