@@ -3,7 +3,7 @@
 Olá! Eu sou o Afonso Fernando <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 </p>
 
-### 💻 Desenvolvedor Web | Freelancer | Entusiasta de Tech
+### 💻 Desenvolvedor Web 
 
 Sou apaixonado por transformar ideias em soluções reais através do código. Atualmente, estou focado em dominar o ecossistema **React** e construir sistemas que facilitem a vida das pessoas. Minha jornada no código é movida pela curiosidade de criar interfaces que sejam bonitas e funcionais.
 
