@@ -11,7 +11,7 @@ Sou apaixonado por transformar ideias em soluções reais através do código. A
 
 #### 🛠️Atualmente, divido meu tempo entre os estudos acadêmicos e o desenvolvimento, onde:
 - 🚀Estou mergulhando de cabeça no ecossistema **React.js** e **Tailwind CSS** para criar interfaces fluidas e modernas.
-- 📂 Desenvolvendo um sistema gerador de convites com código QR.
+- 💻 Desenvolvendo um sistema gerador de convites com código QR.
 - ✍️ Além de codar também cultivo o hábito de leitura.
 
 ---
