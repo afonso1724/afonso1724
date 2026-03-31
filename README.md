@@ -1,4 +1,4 @@
-# Olá! Eu sou o Afonso Fernando <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NueXoxbXZqN3lxOHYycnA3cnp5bXdxeW9xaXZwNTVoZXA4bXVnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4CH5L/giphy.gif" width="30px">
+# Olá! Eu sou o Afonso Fernando <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 ### 💻 Desenvolvedor Web | Freelancer | Entusiasta de Tech
 
