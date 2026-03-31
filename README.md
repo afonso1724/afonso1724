@@ -2,15 +2,14 @@
 
 ### 💻 Desenvolvedor Web | Freelancer | Entusiasta de Tech
 
-Sou apaixonado por transformar ideias em soluções reais através do código. Atualmente, estou focado em dominar o ecossistema **React** e construir sistemas que facilitem a vida das pessoas (como o meu projeto de gestão salarial que está ficando incrível!).
+Sou apaixonado por transformar ideias em soluções reais através do código. Atualmente, estou focado em dominar o ecossistema **React** e construir sistemas que facilitem a vida das pessoas. Minha jornada no código é movida pela curiosidade de criar interfaces que sejam bonitas e funcionais.
 
 ---
 
-#### 🛠️ No que estou focado agora:
-- 🚀 Aprimorando minhas skills em **React.js** e **Tailwind CSS**.
-- 📂 Estruturando sistemas robustos com **PHP** e **MySQL**.
-- 🌍 Pensando em logística e tecnologia com o projeto **AgroConecta**.
-- ✍️ Escrevendo sobre tecnologia e sistemas de informação.
+#### 🛠️Atualmente, divido meu tempo entre os estudos acadêmicos e o desenvolvimento, onde:
+- 🚀Estou mergulhando de cabeça no ecossistema **React.js** e **Tailwind CSS** para criar interfaces fluidas e modernas.
+- 📂 Desenvolvendo um sistema gerador de convites com código QR.
+- ✍️ Além de codar também cultivo o hábito de leitura.
 
 ---
 
@@ -30,7 +29,7 @@ Sou apaixonado por transformar ideias em soluções reais através do código. A
 </p>
 ---
 
-#### 📫 Vamos trocar uma ideia?
+#### 📫 Vamos nos conectar?
 <p align="left">
   <a href="https://linkedin.com/in/afonso-fernando" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
