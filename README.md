@@ -23,12 +23,11 @@ Sou apaixonado por transformar ideias em soluções reais através do código. A
 
 ---
 
-#### 📊 Estatísticas do GitHub:
+📊 Minhas Atividades:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=afonso1724&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Afonso" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonso1724&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150px" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=afonso1724&theme=dark&hide_border=true" />
+<img height="165" src="https://github-vibe.vercel.app/api?username=afonso1724&theme=dark" />
 </p>
-
 ---
 
 #### 📫 Vamos trocar uma ideia?
