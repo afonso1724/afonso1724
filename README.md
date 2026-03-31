@@ -16,7 +16,7 @@ Sou apaixonado por transformar ideias em soluções reais através do código. A
 #### 🧬 Minha Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,bootstrap,git,docker,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,vscode&theme=dark" />
   </a>
 </p>
 
