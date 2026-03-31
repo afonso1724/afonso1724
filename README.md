@@ -21,10 +21,10 @@ Sou apaixonado por transformar ideias em soluções reais através do código. A
 </p>
 
 ---
-
-#### 📊 Minhas Contribuições:
+📊 Minhas Atividades:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=afonso1724&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas de Afonso" height="150px" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=afonso1724&theme=dark&hide_border=true" />
+<img height="165" src="https://github-vibe.vercel.app/api?username=afonso1724&theme=dark" />
 </p>
 ---
 
@@ -40,4 +40,4 @@ Sou apaixonado por transformar ideias em soluções reais através do código. A
 
 <br />
 
-_"Sempre aprendendo, sempre construindo, sempre compartilhando."_
+_Sempre aprendendo, sempre construindo, sempre compartilhando._
