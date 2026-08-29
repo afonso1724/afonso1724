@@ -1,4 +1,4 @@
-# 
+
 <p align="center">
 Olá! Eu sou o Afonso Fernando <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 </p>
@@ -9,7 +9,7 @@ Sou apaixonado por transformar ideias em soluções reais através do código. A
 
 ---
 
-#### 🛠️Atualmente, divido meu tempo entre os estudos acadêmicos e o desenvolvimento, onde:
+#### Atualmente, divido meu tempo entre os estudos acadêmicos e o desenvolvimento, onde:
 -  Estou mergulhando de cabeça no ecossistema **React.js** e **Tailwind CSS** para criar interfaces fluidas e modernas.
 -  Desenvolvendo um sistema gerador de convites com código QR.
 -  Além de codar também cultivo o hábito de leitura.
