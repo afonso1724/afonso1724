@@ -1,11 +1,11 @@
-<div align="left">
+<div align="center">
   
   <!-- GIF Animado de Boas-vindas -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
+  <img width="100px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
 
   <!-- Saudação à esquerda, menor e com a mão a acenar -->
-  <h3>Olá, Mundo! 👋 Eu sou o Afonso Fernando</h3>
-  <p><b>Desenvolvedor Front-end & Entusiasta de Tecnologia</b></p>
+  <p>Olá, eu sou o Afonso Fernando</p>
+  <p><i>Desenvolvedor Front-end & Entusiasta de Tecnologia</i></p>
 
 </div>
 
