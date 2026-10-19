@@ -53,8 +53,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=afonso1724&color=007ec6&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
+div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afonso1724&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
