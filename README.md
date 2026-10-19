@@ -4,7 +4,10 @@
   <img width="100px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
 
   <!-- Saudação à esquerda, menor e com a mão a acenar -->
-  <p>Olá, eu sou o Afonso Fernando</p>
+  <p>
+  <span>Olá, eu sou o Afonso Fernando</span>
+  <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/main/assets/waving_hand.gif" width="30" align="center" />
+</p>
   <p><i>Desenvolvedor Front-end & Entusiasta de Tecnologia <br> dedicado a transformar ideias complexas em <br> aplicações web limpas e funcionais</i></p>
 
 </div>
