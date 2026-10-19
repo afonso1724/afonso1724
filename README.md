@@ -32,8 +32,8 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,git,github,vscode,linux&per=6" alt="Minha Stack" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,git,github,vscode&per=6" alt="Minha Stack" />
 </div>
 
 ---
