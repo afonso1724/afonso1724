@@ -1,76 +1,80 @@
-<!-- CABEÇALHO COM BANNER E APRESENTAÇÃO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=180&section=header&text=Afonso%20Fernando&fontSize=42&fontColor=fff&animation=fadeIn" width="100%"/>
+  <!-- GIF Animado de Boas-vindas ou Banner Tech -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
   
-  <p align="center">
-    <b>Desenvolvedor Front-end</b> • Apresentador e Entusiasta Tech
-  </p>
+  <h1>Olá, Mundo! 🌍 Eu sou o Afonso Fernando</h1>
+  <p><b>Desenvolvedor Front-end & Entusiasta de Tecnologia</b></p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/afonso1724"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Botões de Contato Personalizados (Social Badges) -->
+  <p>
+    <a href="https://linkedin.com/in/afonso1724" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:o_teu_email@exemplo.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/afonso1724" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
   </p>
 </div>
 
 ---
 
-### 🚀 Sobre mim
+### ⚡ Sobre Mim
 
-Sou **desenvolvedor front-end** focado na criação de interfaces modernas, performáticas e focadas na melhor experiência para o utilizador. Gosto de participar em eventos da comunidade de tecnologia, partilhar conhecimento e construir soluções que impactem positivamente a vida das pessoas.
-
-- 💻 **Stack principal:** React.js, JavaScript (ES6+), Tailwind CSS.
-- 🛠️ **Também trabalho com:** PHP, MySQL, Git, GitHub e Linux Mint.
-- 🎯 **Foco atual:** Aperfeiçoamento em ecossistemas React, desenvolvimento de aplicações interativas e arquitetura de código.
-- 📚 **Passatempos:** Leitura constante, estudo de novas tecnologias e projetos para a comunidade.
-
----
-
-### 🧰 Tecnologias & Ferramentas
-
-<br>
-
-<p align="center">
-  <!-- Front-end -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Back-end & Tools -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Mint-87C043?style=for-the-badge&logo=linuxmint&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      🚀 Apaixonado por transformar ideias em interfaces web modernas e funcionais.<br><br>
+      🔭 Atualmente focado em dominar o ecossistema <b>React.js</b> e <b>Tailwind CSS</b>.<br><br>
+      💡 Desenvolvendo projetos práticos, como sistemas de convites com QR Code.<br><br>
+      📚 Nas horas vagas, curto ler e expandir meus conhecimentos tecnológicos.
+    </td>
+    <td align="center" width="50%">
+      <!-- Pequeno GIF lateral ou ilustração de programador -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💡 Projetos em Destaque
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **AgroConecta** | Plataforma de logística agrícola conectando produtores locais | `React` `Tailwind` `PHP` |
-| **Gerador de Convites QR** | Sistema dinâmico de convites digitais com leitor e validação por QR Code | `React` `JavaScript` |
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,git,github,vscode,linux&per=6" alt="Minha Stack" />
 </div>
 
 ---
 
-### 📊 Atividade no GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=afonso1724&show_icons=true&theme=nord&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonso1724&layout=compact&theme=nord&hide_border=true" />
-</p>
-
-<br>
+### 🐍 O Jogo da Cobrinha (GitHub Contribution Snake)
+*(Esta animação atualiza-se sozinha com as suas contribuições reais no GitHub!)*
 
 <div align="center">
-  <sub><i>"A constância e a curiosidade são os motores da evolução técnica."</i></sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afonso1724/afonso1724/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afonso1724/afonso1724/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/afonso1724/afonso1724/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=afonso1724&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Afonso" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonso1724&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afonso1724&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=afonso1724&color=007ec6&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
 </div>
