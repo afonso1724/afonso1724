@@ -54,7 +54,10 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=afonso1724&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Afonso" />
+  <img src="https://komarev.com/ghpvc/?username=afonso1724&color=007ec6&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
+</div>
+
+<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonso1724&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
