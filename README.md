@@ -1,21 +1,9 @@
 <div align="left">
   
-  <!-- Saudação à esquerda e em tamanho menor -->
+  <!-- Saudação à esquerda, menor e com a mão a acenar -->
   <h3>Olá, Mundo! 👋 Eu sou o Afonso Fernando</h3>
   <p><b>Desenvolvedor Front-end & Entusiasta de Tecnologia</b></p>
 
-  <!-- Contador de visitas no topo e botões de contato (sem o link do GitHub) -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=afonso1724&color=007ec6&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
-  </p>
-  <p>
-    <a href="https://linkedin.com/in/afonso1724" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:o_teu_email@exemplo.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
 </div>
 
 ---
@@ -65,4 +53,19 @@
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=afonso1724&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Afonso" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonso1724&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
+</div>
+
+---
+
+### 🤝 Vamos nos conectar?
+
+<div align="center">
+  <p>
+    <a href="https://linkedin.com/in/afonso1724" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:o_teu_email@exemplo.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 </div>
