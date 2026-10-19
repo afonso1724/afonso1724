@@ -1,20 +1,19 @@
-<div align="center">
-  <!-- GIF Animado de Boas-vindas ou Banner Tech -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+<div align="left">
   
-  <h1>Olá, Mundo! 🌍 Eu sou o Afonso Fernando</h1>
+  <!-- Saudação à esquerda e em tamanho menor -->
+  <h3>Olá, Mundo! 👋 Eu sou o Afonso Fernando</h3>
   <p><b>Desenvolvedor Front-end & Entusiasta de Tecnologia</b></p>
 
-  <!-- Botões de Contato Personalizados (Social Badges) -->
+  <!-- Contador de visitas no topo e botões de contato (sem o link do GitHub) -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=afonso1724&color=007ec6&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
+  </p>
   <p>
     <a href="https://linkedin.com/in/afonso1724" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:o_teu_email@exemplo.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/afonso1724" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
 </div>
@@ -25,15 +24,15 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="60%">
       🚀 Apaixonado por transformar ideias em interfaces web modernas e funcionais.<br><br>
       🔭 Atualmente focado em dominar o ecossistema <b>React.js</b> e <b>Tailwind CSS</b>.<br><br>
       💡 Desenvolvendo projetos práticos, como sistemas de convites com QR Code.<br><br>
       📚 Nas horas vagas, curto ler e expandir meus conhecimentos tecnológicos.
     </td>
-    <td align="center" width="50%">
-      <!-- Pequeno GIF lateral ou ilustração de programador -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+    <td align="center" width="40%">
+      <!-- GIF do gato menor -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="130" />
     </td>
   </tr>
 </table>
@@ -66,15 +65,4 @@
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=afonso1724&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Afonso" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonso1724&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afonso1724&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=afonso1724&color=007ec6&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
 </div>
