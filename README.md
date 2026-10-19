@@ -1,9 +1,9 @@
 <div align="center">
   
-  <!-- GIF Animado de Boas-vindas -->
+
   <img width="100px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
 
-  <!-- Saudação à esquerda, menor e com a mão a acenar -->
+  
  <p style="font-size: 18px;">
   Olá, eu sou o Afonso Fernando 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" style="vertical-align: middle;">
@@ -25,7 +25,6 @@
       📚 Nas horas vagas, curto ler e expandir meus conhecimentos tecnológicos.
     </td>
     <td align="center" width="40%">
-      <!-- GIF do gato menor lateral -->
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="130" />
     </td>
   </tr>
