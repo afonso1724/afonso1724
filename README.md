@@ -53,7 +53,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-div align="center">
+<div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afonso1724&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
