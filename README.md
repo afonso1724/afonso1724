@@ -60,6 +60,9 @@
     <a href="https://www.linkedin.com/in/afonso-fernando-b72847339/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzxaJnRiMTpKqZVPsK1zO9g%3D%3D" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <a href="https://x.com/affonso_fernand" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+    </a>
     <a href="mailto:afonsofernando2356@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
