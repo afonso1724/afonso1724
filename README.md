@@ -5,7 +5,7 @@
 
   <!-- Saudação à esquerda, menor e com a mão a acenar -->
   <p>Olá, eu sou o Afonso Fernando</p>
-  <p><i>Desenvolvedor Front-end & Entusiasta de Tecnologia dedicado a transformar ideias complexas em aplicações web limpas e funcionais</i></p>
+  <p><i>Desenvolvedor Front-end & Entusiasta de Tecnologia <br> dedicado a transformar ideias complexas em <br> aplicações web limpas e funcionais</i></p>
 
 </div>
 
