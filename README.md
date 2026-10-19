@@ -38,19 +38,6 @@
 
 ---
 
-### 🐍 O Jogo da Cobrinha (GitHub Contribution Snake)
-*(Esta animação atualiza-se sozinha com as suas contribuições reais no GitHub!)*
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afonso1724/afonso1724/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afonso1724/afonso1724/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/afonso1724/afonso1724/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
