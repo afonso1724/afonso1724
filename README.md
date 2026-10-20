@@ -5,7 +5,7 @@
 
   
  <p style="font-size: 18px;">
-  Olá, eu sou o Afonso Fernando 
+  Olá, eu sou o Afonso Fernando! 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" style="vertical-align: middle;">
  </p>
   <p><i>Desenvolvedor Front-end & Entusiasta de Tecnologia <br> dedicado a transformar ideias complexas em <br> aplicações web limpas e funcionais</i></p>
