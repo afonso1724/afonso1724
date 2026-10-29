@@ -14,15 +14,15 @@
 
 ---
 
-### ⚡ Sobre Mim
+###  Sobre Mim
 
 <table align="center">
   <tr>
     <td width="60%">
-      🚀 Apaixonado por transformar ideias em interfaces web modernas e funcionais.<br><br>
-      🔭 Atualmente focado em dominar o ecossistema <b>React.js</b> e <b>Tailwind CSS</b>.<br><br>
-      💡 Desenvolvendo projetos práticos, como sistemas de convites com QR Code.<br><br>
-      📚 Nas horas vagas, curto ler e expandir meus conhecimentos tecnológicos.
+       Apaixonado por transformar ideias em interfaces web modernas e funcionais.<br><br>
+       Atualmente focado em dominar o ecossistema <b>React.js</b> e <b>Tailwind CSS</b>.<br><br>
+       Desenvolvendo projetos práticos, como sistemas de convites com QR Code.<br><br>
+       Nas horas vagas, curto ler e expandir meus conhecimentos tecnológicos.
     </td>
     <td align="center" width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="130" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,git,github,vscode&per=6" alt="Minha Stack" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
   <br>
@@ -53,7 +53,7 @@
 
 ---
 
-### 🤝 Vamos nos conectar?
+###  Vamos nos conectar?
 
 <div align="left">
   <p>
